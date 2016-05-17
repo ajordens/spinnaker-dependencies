@@ -59,7 +59,6 @@ groups:
     compile:
       - bootActuator
       - bootWeb
-      - bootDataRest
   cassandra:
     compile:
       - astyanaxCql
